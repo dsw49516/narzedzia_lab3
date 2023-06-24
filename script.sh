@@ -37,6 +37,6 @@ case "$1" in
         show_help
         ;;
     *)
-        echo "Nieznana opcja. Użyj --help, aby wyświetlić dostępne opcje."
+        echo "Nieznana opcja. Użyj --help w formacie "./script.sh --help", aby wyświetlić dostępne opcje."
         ;;
 esac
